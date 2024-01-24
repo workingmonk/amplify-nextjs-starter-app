@@ -6,6 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
+          Hello!!! Welcome to the new Proov Cx and QA Tool
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
